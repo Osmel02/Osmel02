@@ -10,8 +10,8 @@ Soy ingeniero en ciberseguridad con experiencia en desarrollo web utilizando tec
 
 ## Tecnologías y Herramientas
 
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Python
+- **Frontend**: HTML, CSS, JS, React, Next.js, Tailwind CSS
+- **Backend**: Python, Django
 - **Automatización**: Bots y tareas automatizadas en Python
 - **Machine Learning**: Modelos y algoritmos de aprendizaje automático
 - **Seguridad Informática**: Análisis y resolución de máquinas virtuales con Kali Linux
