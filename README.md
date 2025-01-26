@@ -33,20 +33,3 @@ Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-@yourhandle-black)](https://github.com/yourhandle)
 [![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-pink)](https://www.instagram.com/yourhandle)
-
-## Únete a la Comunidad
-
-[![Discord](https://img.shields.io/badge/Discord-Community-blue)](https://discord.gg/yourcommunity)
-
-Únete al campus de programación de la comunidad [aquí](https://your-website.com).
-
-## Algunos Vídeos en YouTube
-
-[![Video](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=yourvideo)
-[![Video](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=yourvideo)
-[![Video](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=yourvideo)
-
-## Contacto y Apoyo
-
-[![Email](https://img.shields.io/badge/Email-your_email-red)](mailto:your_email)
-[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-Support-yellow)](https://www.buymeacoffee.com/yourprofile)
