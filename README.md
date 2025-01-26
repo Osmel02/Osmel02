@@ -32,4 +32,3 @@ Encuéntrame en:
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue)](https://twitter.com/yourhandle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-@yourhandle-black)](https://github.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-pink)](https://www.instagram.com/yourhandle)
