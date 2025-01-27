@@ -24,7 +24,7 @@ Soy ingeniero en ciberseguridad con experiencia en desarrollo web utilizando tec
 
 ## Contacto y Redes Sociales
 
-Encuéntrame en:
+Encuéntrame  en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/yourchannel)
 [![Twitch](https://img.shields.io/badge/Twitch-Channel-purple)](https://www.twitch.tv/yourchannel)
