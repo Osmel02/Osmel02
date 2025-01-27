@@ -18,6 +18,7 @@ Soy ingeniero en ciberseguridad con experiencia en desarrollo web utilizando tec
 
 ## Proyectos Destacados
 
+
 - [Proyecto de React](https://github.com/osmelpillotleyva/proyecto-react)
 - [Proyecto de Next.js](https://github.com/osmelpillotleyva/proyecto-nextjs)
 - [Bot en Python](https://github.com/osmelpillotleyva/bot-python)
