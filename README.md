@@ -1,35 +1,42 @@
-# Hola, Soy Osmel Pillot Leyva 👋
+# Osmel Pillot Leyva  
+**Ingeniero en Ciberseguridad | Purple Team**
 
-![Banner](https://your-banner-url.com)
+---
 
-🎓 **Ingeniero en Ciberseguridad** | 🌐 **Desarrollador Web** | 🐍 **Desarrollador Python** | 🎯 **Machine Learning**
+## 👨‍💻 Sobre mí
 
-## Acerca de Mí  
-  
-Soy ingeniero en ciberseguridad con experiencia en desarrollo web utilizando tecnologías como React, Next.js y Tailwind CSS. También tengo habilidades en la programación de bots, automatización de tareas y modelos de machine learning con Python. Actualmente, tengo un nivel de inglés A2 y disfruto resolviendo desafíos de seguridad en máquinas virtuales con Kali Linux.
+Ingeniero en Ciberseguridad con enfoque integral y experiencia tanto en técnicas ofensivas (Red Team) como defensivas (Blue Team). Mi visión “Purple Team” permite identificar vulnerabilidades mediante pentesting y hacking ético, y transformarlas en controles defensivos efectivos dentro de entornos SOC y administración de sistemas.
 
-## Tecnologías y Herramientas
+Experiencia con herramientas como Splunk, Wazuh, Burp Suite y Metasploit, así como administración segura de Linux y Windows Server. Busco aportar a equipos donde pueda integrar análisis ofensivo y defensivo para mejorar continuamente los mecanismos de protección.
 
-- **Frontend**: HTML, CSS, JS, React, Next.js, Tailwind CSS 
-- **Backend**: Python, Django
-- **Automatización**: Bots y tareas automatizadas en Python
-- **Machine Learning**: Modelos y algoritmos de aprendizaje automático
-- **Seguridad Informática**: Análisis y resolución de máquinas virtuales con Kali Linux
+## 💼 Experiencia Laboral
 
-## Proyectos Destacados
+### **Analista SOC L1**  
+**ETI — La Habana, Cuba** | Mayo 2025 — Actualidad  
+- Monitoreo continuo de seguridad mediante SIEM, análisis de alertas y correlación de eventos.
+- Elaboración de reportes de incidentes y recomendaciones técnicas.
+- Atención a eventos de seguridad de primer nivel y escalamiento adecuado.
 
+## 🛠️ Habilidades Técnicas
 
-- [Proyecto de React](https://github.com/osmelpillotleyva/proyecto-react)
-- [Proyecto de Next.js](https://github.com/osmelpillotleyva/proyecto-nextjs)
-- [Bot en Python](https://github.com/osmelpillotleyva/bot-python)
+- **Lenguajes:** Python, Bash
+- **Sistemas Operativos:** Linux, Windows Server
+- **Seguridad Ofensiva:** Pentesting, Red Team, análisis de vulnerabilidades
+- **Seguridad Defensiva:** Herramientas SIEM
+- **Contenedores:** Docker
+- **Administración de Sistemas:** Gestión segura de entornos Linux y Windows, hardening
 
-## Contacto y Redes Sociales
+## 🌐 Idiomas
 
-Encuéntrame  en:
+- **Español:** Nativo
+- **Inglés:** Nivel B1
 
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/yourchannel)
-[![Twitch](https://img.shields.io/badge/Twitch-Channel-purple)](https://www.twitch.tv/yourchannel)
-[![Discord](https://img.shields.io/badge/Discord-Community-blue)](https://discord.gg/yourdiscord)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-@yourhandle-black)](https://github.com/yourhandle)
+## 🎓 Formación Académica
+
+**Universidad de las Ciencias Informáticas**  
+Ingeniero en Ciberseguridad  
+*Graduación: Julio 2025*
+
+## 📫 Contacto
+
+- ✉️ Email: cos.eti.osmel@gmail.com
